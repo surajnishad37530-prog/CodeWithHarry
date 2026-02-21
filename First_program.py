@@ -29,5 +29,6 @@ def factorial(n):
         
     print(t)
 
+
 b = int(input("Enter a number to find factorial: "))
 factorial(b)
